@@ -1,0 +1,15 @@
+{
+    "name":"Tech News",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "description":"Tech News is a fun extension that gives a random tech news to the user time to time",
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo.png"
+    },
+    "icons":{
+        "128":"logo.png",
+        "64":"logo.png"
+    },
+    "permissions":["activeTab"]
+}
